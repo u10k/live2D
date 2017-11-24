@@ -2,7 +2,7 @@
 	"version":"Sample 1.0.0",
 	"model":"murakumo.moc",
 	"textures":[
-		"texture_00.png"
+		"http://huwenzhe.com/live2D/murakumo/murakumo.2048/texture_00.png"
 	],
 	"hit_areas":
 	[
