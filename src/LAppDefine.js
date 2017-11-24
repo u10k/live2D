@@ -49,7 +49,7 @@ var LAppDefine = {
     HIT_AREA_BODY : "body"
 */
 
-    MODEL_MURAKUMO : "murakumo/murakumo.model.json",
+    MODEL_MURAKUMO : "murakumo.model.json",
     
     
     MOTION_GROUP_IDLE : "idle", 
